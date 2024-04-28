@@ -14,7 +14,7 @@
 
 ### Glad to see you here! 🤩
 
-I'm a Computer Science & Engineering graduate 🎓 from IIT Roorkee 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Applications & Backend development:Java: and working on my DSA Skills 🤓.
+I'm a Computer Science & Engineering graduate 🎓 from IIT Roorkee 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Applications & Backend development and working on my DSA Skills 🤓.
 
 ### More about me...
 
