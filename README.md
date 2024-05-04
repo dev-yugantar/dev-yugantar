@@ -20,7 +20,7 @@ I'm a Computer Science & Engineering graduate 🎓 from IIT Roorkee 🏛. I'm a 
 
 - 🔭 I’m currently working on Java and spring boot & developing APIs.
 - 🌱 I’m currently learning backend development & DSA 🚀.
-- 👯 I’m looking to collaborate on any Open Source Project involving Java :heart:
+- 👯 I’m looking to collaborate on any Open Source Project involving Java.
 - 📫 How to reach me: yugantararya777@gmail.com | [LinkedIn](https://www.linkedin.com/in/yugantar-arya-9a85a017b/).
 - 💻 I have worked on Java, React, C++, Python, HTML/CSS, Javascript, Nodejs, Flask, MongoDB, Git etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
